@@ -1,0 +1,112 @@
+[{
+  "_id": {
+    "$oid": "66fd07d5ccca87e44e69dbec"
+  },
+  "movie_name": "bahubali",
+  "release_date": "2024-10-17",
+  "createdAt": {
+    "$date": "2024-10-02T08:44:05.037Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-02T08:44:05.037Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66fd094dccca87e44e69dc7a"
+  },
+  "movie_name": "kantara",
+  "release_date": "2024-10-03",
+  "createdAt": {
+    "$date": "2024-10-02T08:50:21.347Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-02T08:50:21.347Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66fd09edccca87e44e69dcaa"
+  },
+  "movie_name": "sultan",
+  "release_date": "2024-10-17",
+  "createdAt": {
+    "$date": "2024-10-02T08:53:01.971Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-02T08:53:01.971Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66fd0a64ccca87e44e69dcdc"
+  },
+  "movie_name": "Suraj",
+  "release_date": "2024-10-25",
+  "createdAt": {
+    "$date": "2024-10-02T08:55:00.027Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-02T08:55:00.027Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66fd0ae2ccca87e44e69dd3e"
+  },
+  "movie_name": "Akram",
+  "release_date": "2024-10-17",
+  "createdAt": {
+    "$date": "2024-10-02T08:57:06.677Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-02T08:57:06.677Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66fd0b6bccca87e44e69dd7e"
+  },
+  "movie_name": "Manraj",
+  "release_date": "2024-10-17",
+  "createdAt": {
+    "$date": "2024-10-02T08:59:23.067Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-02T08:59:23.067Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66fd0b86ccca87e44e69dda4"
+  },
+  "movie_name": "xcd",
+  "release_date": "2024-10-24",
+  "createdAt": {
+    "$date": "2024-10-02T08:59:50.019Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-02T08:59:50.019Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66fd0bdeccca87e44e69ddaa"
+  },
+  "movie_name": "Dabang",
+  "release_date": "2024-10-11",
+  "createdAt": {
+    "$date": "2024-10-02T09:01:18.139Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-02T09:01:18.139Z"
+  },
+  "__v": 0
+}]

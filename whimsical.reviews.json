@@ -1,0 +1,192 @@
+[{
+  "_id": {
+    "$oid": "66fcd6a90af0ba52abfc45a0"
+  },
+  "movie_id": "66fbf922c401d316042d17e0",
+  "name": "surjit ss",
+  "rating": "8",
+  "comment": "asdfklj asdflkj asdf;ljk asdfl;k",
+  "createdAt": {
+    "$date": "2024-10-02T05:14:17.409Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-02T06:40:59.015Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66fcd6b30af0ba52abfc45a2"
+  },
+  "movie_id": "66fbf938c401d316042d17e4",
+  "name": "akash",
+  "rating": "9",
+  "comment": "asdfklj asdflkj asdf;ljk asdfl;k",
+  "createdAt": {
+    "$date": "2024-10-02T05:14:27.350Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-02T05:14:27.350Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66fcf27fdc82d252de573cea"
+  },
+  "movie_id": "66fbe2de199677bc38796965",
+  "name": "Sankar",
+  "rating": "8",
+  "comment": "lkasjdfl lasndv vnasld aieofj vasnd",
+  "createdAt": {
+    "$date": "2024-10-02T07:13:03.838Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-02T07:13:03.838Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66fcfef8199d659f53b0a902"
+  },
+  "movie_id": "66fcfee1199d659f53b0a8fa",
+  "name": "sss",
+  "rating": "ssss",
+  "comment": "ssss",
+  "createdAt": {
+    "$date": "2024-10-02T08:06:16.639Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-02T08:06:16.639Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66fcff0a199d659f53b0a908"
+  },
+  "movie_id": "66fcee1ddc82d252de573c42",
+  "name": "asdasd",
+  "rating": "asdasd",
+  "comment": "asdasd",
+  "createdAt": {
+    "$date": "2024-10-02T08:06:34.602Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-02T08:06:34.602Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66fd05b1199d659f53b0a966"
+  },
+  "movie_id": "66fcee1ddc82d252de573c42",
+  "name": "Saif",
+  "rating": "9",
+  "comment": "asdfljk",
+  "createdAt": {
+    "$date": "2024-10-02T08:34:57.467Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-02T08:34:57.467Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66fd0693199d659f53b0a9e6"
+  },
+  "movie_id": "66fcee1ddc82d252de573c42",
+  "name": "adasd",
+  "rating": "2",
+  "comment": "wdasdas",
+  "createdAt": {
+    "$date": "2024-10-02T08:38:43.180Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-02T08:38:43.180Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66fd07f7ccca87e44e69dc0c"
+  },
+  "movie_id": "66fd07d5ccca87e44e69dbec",
+  "name": "suraj",
+  "rating": "4",
+  "comment": "asdlfkj",
+  "createdAt": {
+    "$date": "2024-10-02T08:44:39.915Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-02T08:44:39.915Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66fd0800ccca87e44e69dc14"
+  },
+  "movie_id": "66fd07ecccca87e44e69dbfe",
+  "name": "dsaf",
+  "rating": "3",
+  "comment": "asdf",
+  "createdAt": {
+    "$date": "2024-10-02T08:44:48.460Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-02T08:44:48.460Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66fd0816ccca87e44e69dc2e"
+  },
+  "movie_id": "66fd07d5ccca87e44e69dbec",
+  "name": "kapil",
+  "rating": "8",
+  "comment": "asdklfj",
+  "createdAt": {
+    "$date": "2024-10-02T08:45:10.645Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-02T08:45:10.645Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66fd0964ccca87e44e69dc8a"
+  },
+  "movie_id": "66fd094dccca87e44e69dc7a",
+  "name": "dsaf",
+  "rating": "0",
+  "comment": "asdfdasf",
+  "createdAt": {
+    "$date": "2024-10-02T08:50:44.372Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-02T08:50:44.372Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66fd0a8eccca87e44e69dcec"
+  },
+  "movie_id": "66fd094dccca87e44e69dc7a",
+  "name": "asd",
+  "rating": "2",
+  "comment": "sdasdas",
+  "createdAt": {
+    "$date": "2024-10-02T08:55:42.740Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-02T08:55:42.740Z"
+  },
+  "__v": 0
+}]
